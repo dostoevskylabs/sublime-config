@@ -1,0 +1,19 @@
+{
+	"shell_configs":[
+        {
+            "name": "breathe",
+            "cmd": "wsl.exe",
+            "env": {
+            },
+            "enable": true,
+            "default": true,
+            "platforms": ["windows"]
+        }
+	],
+	"natural_keyboard": false,
+    "disable_keys": [
+        "ctrl+d"
+    ],
+    "scrollback_history_size": 6000,
+    "256color": true
+}
