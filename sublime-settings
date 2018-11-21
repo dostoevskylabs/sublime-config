@@ -1,0 +1,10 @@
+{
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remember_open_files": false,
+	"skin": "DA UI/Elegant",
+	"theme": "DA.sublime-theme"
+}
